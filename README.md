@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @PattaraPsk
 - 👀 I’m interested in  
-  - AI - ComVi, GenAI.
+  - Computer Vision + ML/DL
+  - Generative AI
   - Robot - Android, Mesh control, Mobil Suit.
+  - AI embedded control system + Robotics workers
   - Automation machine, smart sensors, IoT
 - 🌱 I’m currently learning Robotics And AI Engineering (International) @ KMITL
 - 💞️ I’m looking to collaborate on ...
